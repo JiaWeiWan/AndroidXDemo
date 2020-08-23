@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AndroidXDemo</string>
+    <string name="btn_add">+</string>
+    <string name="data_key">NUMBER</string>
+    <string name="shp_name">APP_SHARED_DATA</string>
+    <string name="btn_sub">-</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tv_fragmentname">Home</string>
+    <string name="btn_next">下一个Fragment</string>
+    <string name="tv_fragmentdetail">Detail</string>
+    <string name="btn_last">上一个fragment</string>
+    <string name="et_name">name</string>
+</resources>
